@@ -1,0 +1,5 @@
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Ignorar el dataset gigante que bloquea el push
+01-Python para la IA/Actividades Asignatura/Actividad Dataset/res/games_march2025_cleaned.csv
